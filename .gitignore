@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Packaging
+build/
+dist/
+*.spec
+*.zip
+
+# Database cache
+*.db
+*.db-journal
+*.db-wal
+
+# OS specific files
+.DS_Store
+Thumbs.db
